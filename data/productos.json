@@ -1,0 +1,49 @@
+[
+    {
+      "id": "1",
+      "title": "Camiseta Roja",
+      "description": "Camiseta de algodón roja de alta calidad",
+      "code": "C001",
+      "price": 15.99,
+      "status": true,
+      "stock": 50,
+      "category": "Ropa",
+      "thumbnails": []
+    },
+    {
+      "id": "2",
+      "title": "Zapatos Deportivos",
+      "description": "Zapatos deportivos cómodos para correr",
+      "code": "Z001",
+      "price": 45.99,
+      "status": true,
+      "stock": 30,
+      "category": "Calzado",
+      "thumbnails": []
+    },
+    {
+      "id": "3",
+      "title": "Mochila de Viaje",
+      "description": "Mochila resistente para viajes largos",
+      "code": "M001",
+      "price": 25.50,
+      "status": true,
+      "stock": 15,
+      "category": "Accesorios",
+      "thumbnails": []
+    },
+    {
+      "id": "4",
+      "title": "Auriculares Bluetooth",
+      "description": "Auriculares inalámbricos con sonido de alta calidad",
+      "code": "A001",
+      "price": 65.00,
+      "status": true,
+      "stock": 100,
+      "category": "Tecnología",
+      "thumbnails": []
+    }
+  ]
+  
+
+  
